@@ -1,0 +1,2 @@
+# JavaScriptFundamentals
+📚 Aprendizado em JavaScript 🚀 
